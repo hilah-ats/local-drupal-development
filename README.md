@@ -4,10 +4,12 @@
 1. Download and install [Docker Desktop](https://www.docker.com/products/docker-desktop/).
 
 2. Open Terminal and pull the latest Docker image for [Drupal](https://hub.docker.com/_/drupal) (or specify a version).
-	``` docker pull drupal:version```
+
+``` docker pull drupal:version```
 	
 3. Pull the latest Docker image for [MySQL](https://hub.docker.com/_/mysql/) (or specifify a version compatible with the version of Drupal you are using).
-	``` docker pull mysql:version```
+
+``` docker pull mysql:version```
 	
 4. Create the following folder structure in a directory on your local filesystem.
 	``` 
