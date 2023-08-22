@@ -22,7 +22,7 @@
 	
 5. Download a .zip of the latest version of [Drupal](https://www.drupal.org/project/drupal/releases) (or the version of Drupal you previously specified).
 
-6. Copy the contents of the ``` /sites ``` folder from the downloaded .zip into the ```/sites``` folder in the directory you created on your local filesystem.
+6. Copy the contents of the ``` /sites ``` folder from the downloaded .zip into ```/my-directory/sites```.
 
 7.  Copy ```/my-directory/sites/default.settings.php``` and rename the copy to ```/my-directory/sites/settings.php```.
 
